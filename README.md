@@ -14,3 +14,10 @@ No data is returned.
 No optimization is performed.
 
 This environment may be removed without consequence.
+
+---
+
+All acting fields are Presence-bound.
+
+Presence is not a trigger.
+Presence is the condition of non-interference.
